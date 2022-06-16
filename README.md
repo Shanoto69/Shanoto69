@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shanoto69
-- 👀 I’m interested in computing, programming, pentresting, circuits, engines and anything in between
+- 👀 I’m interested in computing, programming, pentesting, circuits, engines and anything in between
 - 🌱 I’m currently learning all of the above
 
 <!---
